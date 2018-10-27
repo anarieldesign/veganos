@@ -1,0 +1,415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Veganos\n"
+"POT-Creation-Date: 2018-10-08 11:54+0200\n"
+"PO-Revision-Date: 2018-10-08 11:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:48
+msgid "Try looking in the monthly archives."
+msgstr ""
+
+#: admin/admin.php:26
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: admin/admin.php:29
+msgid "You do not have the necessary permission to perform this action."
+msgstr ""
+
+#: admin/admin.php:46
+msgid "Dismiss this notice."
+msgstr ""
+
+#: admin/admin.php:49
+#, php-format
+msgid ""
+"Thanks for choosing Veganos! To get started please make sure you visit our "
+"%2$swelcome page%3$s."
+msgstr ""
+
+#: admin/admin.php:52
+msgid "Get Started with Veganos"
+msgstr ""
+
+#: admin/admin.php:63 admin/admin.php:73
+msgid "Welcome to Veganos"
+msgstr ""
+
+#: admin/admin.php:63
+msgid "Theme Info"
+msgstr ""
+
+#: admin/admin.php:77 admin/admin.php:175
+msgid "Theme Screenshot"
+msgstr ""
+
+#: admin/admin.php:81
+msgid ""
+"Veganos is a wonderfully designed, clean and responsive free WordPress "
+"theme. It is perfect for creating food-related websites like recipe "
+"websites, blogs, magazines and more. Veganos is built mobile first and is "
+"pleasure to view on devices of all sizes. It features modern, easy-to-read "
+"typography and minimalistic design."
+msgstr ""
+
+#: admin/admin.php:89
+msgid "Important Links:"
+msgstr ""
+
+#: admin/admin.php:91
+msgid "Theme Info Page"
+msgstr ""
+
+#: admin/admin.php:94
+msgid "Anariel Design Themes Showcase"
+msgstr ""
+
+#: admin/admin.php:101
+#, php-format
+msgid "Get Started with %s"
+msgstr ""
+
+#: admin/admin.php:108 admin/admin.php:115
+msgid "Theme Documentation"
+msgstr ""
+
+#: admin/admin.php:111
+msgid ""
+"Please check the documentation to get better overview of how the theme is "
+"structured."
+msgstr ""
+
+#: admin/admin.php:122
+msgid "Theme Options"
+msgstr ""
+
+#: admin/admin.php:125
+msgid "Click \"Customize\" to open the Customizer."
+msgstr ""
+
+#: admin/admin.php:129
+msgid "Customize Theme"
+msgstr ""
+
+#: admin/admin.php:139
+msgid "Upgrade to Veganos Pro for more awesome features:"
+msgstr ""
+
+#: admin/admin.php:144
+msgid "Features"
+msgstr ""
+
+#: admin/admin.php:145
+msgid "Veganos"
+msgstr ""
+
+#: admin/admin.php:146
+msgid "Veganos Pro"
+msgstr ""
+
+#: admin/admin.php:151
+msgid "Support"
+msgstr ""
+
+#: admin/admin.php:153
+msgid "Help Desk Ticketing System"
+msgstr ""
+
+#: admin/admin.php:160
+msgid "Upgrade to Help Desk Ticketing System"
+msgstr ""
+
+#: admin/admin.php:170
+msgid "More Themes by Anariel Design"
+msgstr ""
+
+#: admin/admin.php:173
+msgid ""
+"Build Your Dream WordPress Site with Premium Niche Themes for Bloggers & "
+"Charities"
+msgstr ""
+
+#: admin/admin.php:178
+msgid "More Themes"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:827
+#: assets/class-tgm-plugin-activation.php:2533
+#: assets/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:934
+#: assets/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1121
+#: assets/class-tgm-plugin-activation.php:2948
+msgid "and"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: assets/class-tgm-plugin-activation.php:3509
+#: assets/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3509
+#: assets/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: assets/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: author-bio.php:28
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: components/navigation/navigation-top.php:6
+msgid "Menu"
+msgstr ""
+
+#: components/page/content-page.php:19 components/post/content-archive.php:47
+#: components/post/content-single.php:41 components/post/content.php:47
+msgid "Pages:"
+msgstr ""
+
+#: components/post/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: components/post/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: components/post/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:53
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:138
+msgid "on"
+msgstr ""
+
+#: functions.php:320
+msgid "Gutenberg"
+msgstr ""
+
+#: functions.php:326
+msgid "Atomic Blocks"
+msgstr ""
+
+#: functions.php:332
+msgid "One Click Demo Import"
+msgstr ""
+
+#: functions.php:338
+msgid "Elementor"
+msgstr ""
+
+#: functions.php:344
+msgid "WPForms Lite"
+msgstr ""
+
+#: functions.php:370
+msgid "Demo Import"
+msgstr ""
+
+#: functions.php:390
+msgid "Welcome to Zeko"
+msgstr ""
+
+#: functions.php:391
+msgid "Latest News"
+msgstr ""
+
+#: functions.php:400
+msgid "Before you begin, make sure all the recommended plugins are activated."
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Front Page Hero Image"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid ""
+"Hero image is featured image of the page you select to be your front page. "
+"Caption text is text added to the editor of that same page."
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Hero Image Opacity"
+msgstr ""
+
+#: inc/functions-icons.php:42
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/functions-icons.php:47
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:17 inc/template-tags.php:92
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:39
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "by"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "in"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:75
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:97
+msgid "Tagged"
+msgstr ""
+
+#: inc/template-tags.php:101
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:126
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:128
+msgid "Post"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:133
+#, php-format
+msgid "Edit %1$s %2$s"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:22
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:23
+msgid "Next Post"
+msgstr ""

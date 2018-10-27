@@ -1,0 +1,230 @@
+/*
+Theme Name: Veganos
+* Styles for Gutenberg blocks
+*/
+
+
+#editor {
+	color: #1b1f22;
+}
+
+@media screen and ( min-width: 768px ) {
+/* Main column width */
+body.gutenberg-editor-page .editor-post-title__block,
+body.gutenberg-editor-page .editor-default-block-appender,
+body.gutenberg-editor-page .editor-block-list__block {
+	max-width: 1200px!important;
+}
+
+/* Width of "wide" blocks */
+body.gutenberg-editor-page .editor-block-list__block[data-align="wide"] {
+	max-width: 1080px!important;
+}
+
+/* Width of "full-wide" blocks */
+body.gutenberg-editor-page .editor-block-list__block[data-align="full"] {
+	max-width: none!important;
+}
+}
+
+.edit-post-visual-editor,
+.edit-post-visual-editor p,
+.editor-block-list__block {
+	font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+.edit-post-visual-editor h1,
+.edit-post-visual-editor h2,
+.edit-post-visual-editor h3,
+.edit-post-visual-editor h4,
+.edit-post-visual-editor h5,
+.edit-post-visual-editor h6,
+.editor-post-title textarea.editor-post-title__input {
+	font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-weight: bold;
+}
+
+.edit-post-visual-editor p.wp-block-subhead {
+	color: inherit;
+	opacity: 0.75;
+}
+
+body .editor-block-list__block a {
+	color: #3a8014;
+}
+
+.gutenberg .entry-content{
+	font-size: 16px;
+	line-height: 1.8;
+	margin: 0 auto;
+	display: block;
+}
+
+.editor-block-list__block a {
+	color: #666;
+	font-weight: 500;
+	text-decoration: none;
+}
+
+.edit-post-visual-editor .wp-block-preformatted pre {
+	background: #eee;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em;
+}
+
+body.gutenberg {
+	overflow-x: hidden;
+}
+
+.editor-block-list__block .wp-block-quote,
+.wp-block-quote:not(.is-large):not(.is-style-large) {
+	border-left: 4px solid #3a8014;
+	margin: 0 2em;
+	padding: 0 0 0 1.5em;
+	font-style: normal;
+}
+
+.editor-block-list__block .wp-block-quote cite {
+	color: #3a8014;
+	text-transform: uppercase;
+	font-style: italic;
+	text-align: left;
+}
+
+.block-library-list .editor-rich-text__tinymce, 
+.block-library-list .editor-rich-text__tinymce ol, 
+.block-library-list .editor-rich-text__tinymce ul {
+	margin: 0 0 1.5em 3em;
+	padding: 0;
+}
+
+.gutenberg .wp-block-latest-posts {
+	padding-left: 2.5em;
+}
+
+.editor-block-list__block .wp-block-verse pre {
+	background: #eee;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 15px;
+	font-size: 0.9375rem;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em;
+}
+
+.editor-block-list__block .wp-block-pullquote {
+	border-top: none;
+	border-bottom: none;
+	border-left: 4px solid #3a8014;
+	color: #1b1f22;
+	margin: 0 2em;
+	padding: 0 0 0 1.5em;
+	text-align: left;
+}
+
+.editor-block-list__block .wp-block-pullquote>.block-library-pullquote__content .editor-rich-text__tinymce[data-is-empty=true]:before, 
+.editor-block-list__block .wp-block-pullquote>.editor-rich-text p {
+	font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+.editor-block-list__block .wp-block-pullquote>.editor-rich-text p cite,
+.editor-block-list__block .wp-block-pullquote cite {
+	color: #3a8014;
+	font-style: normal;
+}
+
+.wp-block-button .wp-block-button__link {
+	border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+	color: #fff;
+	font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
+	text-transform: uppercase;
+}
+
+.editor-block-list__block .wp-block-columns .wp-block-image img {
+	border-radius: 95% 81% 100% 70% / 100% 100% 80% 79%;
+	-webkit-transition: all 2s;
+	transition: all 2s;
+	margin-top: 30px;
+}
+
+.edit-post-visual-editor .editor-block-list__block[data-align=full] .wp-block-columns.has-2-columns,
+.edit-post-visual-editor .editor-block-list__block[data-align=full] .wp-block-columns.has-3-columns,
+.edit-post-visual-editor .editor-block-list__block[data-align=full] .wp-block-columns.has-4-columns,
+.edit-post-visual-editor .editor-block-list__block[data-align=full] .wp-block-columns.has-5-columns,
+.edit-post-visual-editor .editor-block-list__block[data-align=full] .wp-block-columns.has-6-columns {
+	background: #f6f6f6;
+	margin-top: 80px;
+	padding: 80px 0;
+}
+
+.editor-block-list__block .wp-block-atomic-blocks-ab-post-grid .ab-block-post-grid-text {
+	padding: 40px;
+	background: #f6f6f6;
+	border-radius: 0px 0px 225px 15px/15px 225px 15px 255px;
+}
+
+.editor-block-list__block .wp-block-atomic-blocks-ab-post-grid .ab-block-post-grid-image {
+	margin-bottom: 0;
+}
+
+.editor-block-list__block .wp-block-atomic-blocks-ab-post-grid .ab-block-post-grid-text h2 a {
+	-webkit-box-shadow: inset 0 -2px 0 #1b1f22;
+	box-shadow: inset 0 -2px 0 #1b1f22;
+	color: #1b1f22;
+}
+
+.edit-post-visual-editor .ab-block-post-grid .ab-block-post-grid-byline {
+		font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+.edit-post-visual-editor .ab-block-post-grid .ab-block-post-grid-text p {
+	font-size: 16px;
+	font-size: 1rem;
+}
+
+.edit-post-visual-editor .ab-block-post-grid .ab-block-post-grid-link {
+	color: #fff;
+	background-color: #3a8014;
+	border: none;
+	border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+	-webkit-box-shadow: 0;
+	box-shadow: 0;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 16px;
+	font-size: 1rem;
+	font-weight: 500;
+	line-height: 24px;
+	margin: 0;
+	padding: 7px 15px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: .3s ease;
+}
+
+.edit-post-visual-editor .editor-block-list__block[data-align="full"] .wp-block-cover-image-text,
+.edit-post-visual-editor .editor-block-list__block[data-align="wide"] .wp-block-cover-image-text {
+	font-size: 3.75rem;
+	color: #1b1f22;
+	background: #fff;
+	line-height: 1.25;
+	padding: 60px;
+	border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+}
+
+.edit-post-visual-editor .wp-block-cover-image .editor-rich-text strong {
+	font-weight: bold;
+}
+
+.edit-post-visual-editor .ab-block-testimonial {
+	border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+}

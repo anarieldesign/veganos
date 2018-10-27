@@ -1,0 +1,7 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_veganos">
+			<key name="custom_logo"/>
+		</key>
+	</admin-texts>
+</wpml-config>

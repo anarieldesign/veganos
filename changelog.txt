@@ -1,0 +1,7 @@
+= Veganos change log =
+
+Version 1.0.1, 1.0.2 - October 12, 2018
+- accessibility fixes
+- fixes for escaping
+
+Version 1.0.0 - October 08, 2018

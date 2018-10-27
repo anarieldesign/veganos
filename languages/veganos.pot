@@ -1,0 +1,903 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Veganos\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-12 13:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: functions.php:53 components/navigation/navigation-top.php:1
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Social Menu"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:148
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:333
+msgid "Gutenberg"
+msgstr ""
+
+#: functions.php:339
+msgid "Atomic Blocks"
+msgstr ""
+
+#: functions.php:345
+msgid "One Click Demo Import"
+msgstr ""
+
+#: functions.php:351
+msgid "Elementor"
+msgstr ""
+
+#: functions.php:357
+msgid "WPForms Lite"
+msgstr ""
+
+#: functions.php:363
+msgid "Orbit Fox Companion"
+msgstr ""
+
+#: functions.php:389
+msgid "Demo Import"
+msgstr ""
+
+#: functions.php:408 admin/admin.php:63 admin/admin.php:73
+msgid "Welcome to Veganos"
+msgstr ""
+
+#: functions.php:409
+msgid "Blog"
+msgstr ""
+
+#: functions.php:418
+msgid "Before you begin, make sure all the recommended plugins are activated."
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:48
+msgid "Try looking in the monthly archives."
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#. %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: single.php:22
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:23
+msgid "Next Post"
+msgstr ""
+
+#: author-bio.php:28
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:17 inc/template-tags.php:92
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgctxt "post author"
+msgid "by"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgctxt "prefaces list of categories assigned to the post"
+msgid "in"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:75
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:97
+msgid "Tagged"
+msgstr ""
+
+#: inc/template-tags.php:101
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:126
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:128
+msgid "Post"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:133
+#, php-format
+msgid "Edit %1$s %2$s"
+msgstr ""
+
+#: inc/functions-icons.php:42
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/functions-icons.php:47
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/customizer.php:22 admin/admin.php:122
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Configure your theme settings"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "Hero Image"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Hero Image Opacity"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Blog Options"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Blog Page - Post Display"
+msgstr ""
+
+#: inc/customizer.php:74
+msgid "Full Length"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Hide Post Meta"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Hide Author Bio"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Copyright Settings"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid ""
+"Proudly powered by WordPress. Veganos Theme by Anariel Design. All rights "
+"reserved"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Hide copyright text"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Change the main accent color"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. %s: plugin name.
+#: assets/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. %s: plugin name.
+#: assets/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:340
+#, php-format
+msgid ""
+"Plugin used in the theme demo ( they are not mandatory for the theme to work,"
+" only if you want to replicate and import demo content ): %1$s."
+msgid_plural ""
+"Plugins used in the theme demo ( they are not mandatory for the theme to "
+"work, only if you want to replicate and import demo content ): %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:364
+#, php-format
+msgid ""
+"The following recommended plugin is currently inactive. Feel free to dismiss "
+"the notice if you do not need these plugins: %1$s."
+msgid_plural ""
+"The following recommended plugins are currently inactive. Feel free to "
+"dismiss the notice if you do not need these plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:386 
+#: assets/class-tgm-plugin-activation.php:827 
+#: assets/class-tgm-plugin-activation.php:2533 
+#: assets/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:387 
+#: assets/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:388 
+#: assets/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: plugin name.
+#: assets/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. 1: plugin name.
+#: assets/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: dashboard link.
+#: assets/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:934 
+#: assets/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:1121 
+#: assets/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. %s: version number
+#: assets/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: assets/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: assets/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: assets/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: assets/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: assets/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: assets/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: assets/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: assets/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: assets/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: assets/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. 1: plugin name.
+#: assets/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: assets/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3509 
+#: assets/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3509 
+#: assets/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: assets/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: assets/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: assets/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: assets/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/admin.php:26
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: admin/admin.php:29
+msgid "You do not have the necessary permission to perform this action."
+msgstr ""
+
+#: admin/admin.php:46
+msgid "Dismiss this notice."
+msgstr ""
+
+#: admin/admin.php:49
+#, php-format
+msgid ""
+"Thanks for choosing Veganos! To get started please make sure you visit our "
+"%2$swelcome page%3$s."
+msgstr ""
+
+#: admin/admin.php:52
+msgid "Get Started with Veganos"
+msgstr ""
+
+#: admin/admin.php:63
+msgid "Theme Info"
+msgstr ""
+
+#: admin/admin.php:77 admin/admin.php:154
+msgid "Theme Screenshot"
+msgstr ""
+
+#: admin/admin.php:81
+msgid ""
+"Veganos is a wonderfully designed, clean and responsive free WordPress theme."
+" It is perfect for creating food-related websites like recipe websites, "
+"blogs, magazines and more. Veganos is built mobile first and is pleasure to "
+"view on devices of all sizes. It features modern, easy-to-read typography "
+"and minimalistic design."
+msgstr ""
+
+#: admin/admin.php:89
+msgid "Important Links:"
+msgstr ""
+
+#: admin/admin.php:91
+msgid "Theme Info Page"
+msgstr ""
+
+#: admin/admin.php:94
+msgid "Anariel Design Themes Showcase"
+msgstr ""
+
+#: admin/admin.php:101
+#, php-format
+msgid "Get Started with %s"
+msgstr ""
+
+#: admin/admin.php:108 admin/admin.php:115
+msgid "Theme Documentation"
+msgstr ""
+
+#: admin/admin.php:111
+msgid ""
+"Please check the documentation to get better overview of how the theme is "
+"structured."
+msgstr ""
+
+#: admin/admin.php:125
+msgid "Click \"Customize\" to open the Customizer."
+msgstr ""
+
+#: admin/admin.php:129
+msgid "Customize Theme"
+msgstr ""
+
+#: admin/admin.php:139
+msgid ""
+"Upgrade to one of our membership plans and get access to support and 17 "
+"premium themes."
+msgstr ""
+
+#: admin/admin.php:142
+msgid "Upgrade Now"
+msgstr ""
+
+#: admin/admin.php:149
+msgid "More Themes by Anariel Design"
+msgstr ""
+
+#: admin/admin.php:152
+msgid ""
+"Build Your Dream WordPress Site with Premium Niche Themes for Bloggers & "
+"Charities"
+msgstr ""
+
+#: admin/admin.php:157
+msgid "More Themes"
+msgstr ""
+
+#: components/post/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: components/post/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: components/post/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: components/post/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: Name of current post.
+#: components/post/content-single.php:38 
+#: components/post/content-archive.php:50 components/post/content.php:50
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: components/post/content-single.php:43 
+#: components/post/content-archive.php:55 components/post/content.php:55 
+#: components/page/content-page.php:19
+msgid "Pages:"
+msgstr ""
+
+#: components/post/content-archive.php:41 components/post/content.php:41
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: components/navigation/navigation-top.php:6
+msgid "Menu"
+msgstr ""
+
+#: components/footer/site-info.php:17
+msgid "&copy;"
+msgstr ""
+
+#. Name of the theme
+msgid "Veganos"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Veganos is a wonderfully designed, clean and responsive free WordPress theme."
+" It's perfect for creating food-related websites like recipe websites, blogs,"
+" magazines and more. Veganos is built mobile first and is pleasure to view "
+"on devices of all sizes. It features modern, easy-to-read typography and "
+"minimalistic design."
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.anarieldesign.com/free-food-blogger-wordpress-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "Anariel Design"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.anarieldesign.com"
+msgstr ""

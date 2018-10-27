@@ -1,0 +1,9 @@
+/***** Customizer Custom CSS *****/
+
+.veganos-upgrade-thumb img { border: 1px solid #ccc; }
+.veganos-upgrade-title { color: #000; text-transform: uppercase; }
+.veganos-upgrade-features { list-style: disc; margin: 0 15px; }
+.veganos-button .button { min-width: 220px; text-align: center; }
+.veganos-upgrade-button .button { color: #fff; background: #008ec2; border-color: #008ec2; }
+.customize-pane-parent #accordion-panel-veganos_theme_options .accordion-section-title, #accordion-section-veganos_magazine_lite_upgrade .accordion-section-title { color: #fff; background: #008ec2; border-left: 4px solid #bfdeec; }
+.rtl .customize-pane-parent #accordion-panel-veganos_theme_options .accordion-section-title, .rtl #accordion-section-veganos_magazine_lite_upgrade .accordion-section-title { border-right: 4px solid #bfdeec; border-left: none; }
