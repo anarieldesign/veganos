@@ -2507,7 +2507,6 @@ pre.wp-block-verse,
 	padding: 10px;
 }
 
-
 .wp-block-columns.alignfull.has-2-columns img:hover,
 .wp-block-columns.alignfull.has-3-columns img:hover,
 .wp-block-columns.alignfull.has-4-columns img:hover,
@@ -2597,6 +2596,11 @@ body .wp-block-cover-image.alignwide .wp-block-cover-image-text {
 
 body .ab-block-post-grid {
 	margin: 100px 0 1.2em 0;
+}
+
+.wp-block-gallery {
+	margin-bottom: 1.5em;
+	margin-top: 2.25em;
 }
 
 /* Atomic Blocks */
