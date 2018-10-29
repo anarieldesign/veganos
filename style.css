@@ -2814,6 +2814,22 @@ body .bc-product__title {
 	font-size: 20px;
 }
 
+/* Custom Editor Palette */
+.has-light-gray-color {
+	color: #efefef;
+}
+
+.has-light-gray-background-color {
+	background-color: #efefef;
+}
+
+.has-strong-gray-color {
+	color: #1b1f22;
+}
+
+.has-strong-gray-background-color {
+	background-color: #1b1f22;
+}
 
 /*--------------------------------------------------------------
 ## Media Queries
