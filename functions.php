@@ -340,6 +340,12 @@ function veganos_require_plugins() {
 			'slug'      => 'atomic-blocks',
 			'required'  => false,
 		),
+		// Block Gallery
+		array(
+			'name'      => esc_html__( 'Block Gallery', 'veganos' ),
+			'slug'      => 'block-gallery',
+			'required'  => false,
+		),
 		// One Click Demo Import
 		array(
 			'name'      => esc_html__( 'One Click Demo Import', 'veganos' ),
