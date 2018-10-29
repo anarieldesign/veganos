@@ -2820,6 +2820,11 @@ body .bc-product__title {
 }
 
 /* Block Gallery */
+.blockgallery {
+	margin-bottom: 2.4em;
+	margin-top: 2.3em;
+}
+
 .blockgallery.alignfull {
 	margin-left: -50vw !important;
 }
