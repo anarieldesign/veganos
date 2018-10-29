@@ -182,7 +182,7 @@ body.gutenberg {
 }
 
 .edit-post-visual-editor .ab-block-post-grid .ab-block-post-grid-byline {
-		font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
 }
 
 .edit-post-visual-editor .ab-block-post-grid .ab-block-post-grid-text p {
@@ -227,4 +227,9 @@ body.gutenberg {
 
 .edit-post-visual-editor .ab-block-testimonial {
 	border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+}
+
+/* Core Gallery Block */
+.wp-block-gallery figcaption {
+	font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
 }
