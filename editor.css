@@ -233,3 +233,8 @@ body.gutenberg {
 .wp-block-gallery figcaption {
 	font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
 }
+
+/* Block Gallery */
+.blockgallery--caption {
+	font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
+}
