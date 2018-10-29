@@ -36,6 +36,7 @@ Text Domain: veganos
 	## Galleries
 # Blocks
 --------------------------------------------------------------*/
+
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
@@ -2294,8 +2295,8 @@ figure.wp-block-image {
 }
 
 .alignwide {
-	margin-left: -10vw;
-	margin-right: -10vw;
+	margin-left: -100px;
+	margin-right: -100px;
 	max-width: initial;
 }
 
@@ -2812,6 +2813,11 @@ body a.bc-btn[disabled], button.bc-btn[disabled] {
 
 body .bc-product__title {
 	font-size: 20px;
+}
+
+/* Block Gallery */
+.blockgallery.alignfull {
+	margin-left: -50vw !important;
 }
 
 /* Custom Editor Palette */
@@ -3408,18 +3414,31 @@ body .bc-product__title {
 	}
 }
 
-@media screen and (max-width: 840px) {
+@media screen and (max-width: 1320px) {
 	.alignwide {
-		margin-left: -5vw;
-		margin-right: -5vw;
+		margin-left: -50px;
+		margin-right: -50px;
+	}
+
+	.blockgallery.alignwide {
+		margin-left: -50px !important;
+		margin-right: -50px !important;
 	}
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1220px) {
 	.alignwide {
 		margin-left: auto;
 		margin-right: auto;
 	}
+
+	.blockgallery.alignwide {
+		margin-left: auto !important;
+		margin-right: auto !important;
+	}
+}
+
+@media screen and (max-width: 700px) {
 	
 	.front-page-content-area .entry-title {
 		font-size: 44.8px;
