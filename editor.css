@@ -9,22 +9,22 @@ Theme Name: Veganos
 }
 
 @media screen and ( min-width: 768px ) {
-/* Main column width */
-body.gutenberg-editor-page .editor-post-title__block,
-body.gutenberg-editor-page .editor-default-block-appender,
-body.gutenberg-editor-page .editor-block-list__block {
-	max-width: 1200px!important;
-}
+	/* Main column width */
+	body.gutenberg-editor-page .editor-post-title__block,
+	body.gutenberg-editor-page .editor-default-block-appender,
+	body.gutenberg-editor-page .editor-block-list__block {
+		max-width: 1160px!important;
+	}
 
-/* Width of "wide" blocks */
-body.gutenberg-editor-page .editor-block-list__block[data-align="wide"] {
-	max-width: 1080px!important;
-}
+	/* Width of "wide" blocks */
+	body.gutenberg-editor-page .editor-block-list__block[data-align="wide"] {
+		max-width: 1360px!important;
+	}
 
-/* Width of "full-wide" blocks */
-body.gutenberg-editor-page .editor-block-list__block[data-align="full"] {
-	max-width: none!important;
-}
+	/* Width of "full-wide" blocks */
+	body.gutenberg-editor-page .editor-block-list__block[data-align="full"] {
+		max-width: none!important;
+	}
 }
 
 .edit-post-visual-editor,
@@ -182,7 +182,7 @@ body.gutenberg {
 }
 
 .edit-post-visual-editor .ab-block-post-grid .ab-block-post-grid-byline {
-		font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
 }
 
 .edit-post-visual-editor .ab-block-post-grid .ab-block-post-grid-text p {
@@ -227,4 +227,14 @@ body.gutenberg {
 
 .edit-post-visual-editor .ab-block-testimonial {
 	border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+}
+
+/* Core Gallery Block */
+.wp-block-gallery figcaption {
+	font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+/* Block Gallery */
+.blockgallery--caption {
+	font-family: "Poppins", "Helvetica Neue", helvetica, arial, sans-serif;
 }

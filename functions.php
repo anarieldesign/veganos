@@ -98,17 +98,17 @@ function veganos_setup() {
 	// Add support for custom color scheme.
 	add_theme_support( 'editor-color-palette', array(
 			array(
-				'name'  => 'strong green',
+				'name'  => esc_html__( 'Strong Green', 'veganos' ),
 				'slug'  => 'strong-green',
 				'color' => '#3a8014',
 			),
 			array(
-				'name'  => 'strong gray',
+				'name'  => esc_html__( 'Strong Gray', 'veganos' ),
 				'slug'  => 'strong-gray',
 				'color' => '#1b1f22',
 			),
 			array(
-				'name'  => 'light gray',
+				'name'  => esc_html__( 'Light Gray', 'veganos' ),
 				'slug'  => 'light-gray',
 				'color' => '#efefef',
 			),
@@ -338,6 +338,12 @@ function veganos_require_plugins() {
 		array(
 			'name'      => esc_html__( 'Atomic Blocks', 'veganos' ),
 			'slug'      => 'atomic-blocks',
+			'required'  => false,
+		),
+		// Block Gallery
+		array(
+			'name'      => esc_html__( 'Block Gallery', 'veganos' ),
+			'slug'      => 'block-gallery',
 			'required'  => false,
 		),
 		// One Click Demo Import

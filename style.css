@@ -36,6 +36,7 @@ Text Domain: veganos
 	## Galleries
 # Blocks
 --------------------------------------------------------------*/
+
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
@@ -2294,8 +2295,8 @@ figure.wp-block-image {
 }
 
 .alignwide {
-	margin-left: -10vw;
-	margin-right: -10vw;
+	margin-left: -100px;
+	margin-right: -100px;
 	max-width: initial;
 }
 
@@ -2506,7 +2507,6 @@ pre.wp-block-verse,
 	padding: 10px;
 }
 
-
 .wp-block-columns.alignfull.has-2-columns img:hover,
 .wp-block-columns.alignfull.has-3-columns img:hover,
 .wp-block-columns.alignfull.has-4-columns img:hover,
@@ -2596,6 +2596,11 @@ body .wp-block-cover-image.alignwide .wp-block-cover-image-text {
 
 body .ab-block-post-grid {
 	margin: 100px 0 1.2em 0;
+}
+
+.wp-block-gallery {
+	margin-bottom: 1.5em;
+	margin-top: 2.25em;
 }
 
 /* Atomic Blocks */
@@ -2814,6 +2819,32 @@ body .bc-product__title {
 	font-size: 20px;
 }
 
+/* Block Gallery */
+.blockgallery {
+	margin-bottom: 2.4em;
+	margin-top: 2.3em;
+}
+
+.blockgallery.alignfull {
+	margin-left: -50vw !important;
+}
+
+/* Custom Editor Palette */
+.has-light-gray-color {
+	color: #efefef;
+}
+
+.has-light-gray-background-color {
+	background-color: #efefef;
+}
+
+.has-strong-gray-color {
+	color: #1b1f22;
+}
+
+.has-strong-gray-background-color {
+	background-color: #1b1f22;
+}
 
 /*--------------------------------------------------------------
 ## Media Queries
@@ -3392,18 +3423,31 @@ body .bc-product__title {
 	}
 }
 
-@media screen and (max-width: 840px) {
+@media screen and (max-width: 1320px) {
 	.alignwide {
-		margin-left: -5vw;
-		margin-right: -5vw;
+		margin-left: -50px;
+		margin-right: -50px;
+	}
+
+	.blockgallery.alignwide {
+		margin-left: -50px !important;
+		margin-right: -50px !important;
 	}
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1220px) {
 	.alignwide {
 		margin-left: auto;
 		margin-right: auto;
 	}
+
+	.blockgallery.alignwide {
+		margin-left: auto !important;
+		margin-right: auto !important;
+	}
+}
+
+@media screen and (max-width: 700px) {
 	
 	.front-page-content-area .entry-title {
 		font-size: 44.8px;
