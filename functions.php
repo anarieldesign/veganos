@@ -364,10 +364,10 @@ function veganos_require_plugins() {
 			'slug'      => 'wpforms-lite',
 			'required'  => false,
 		),
-		// Orbit Fox Companion
+		// Otter Blocks Companion
 		array(
-			'name'      => esc_html__( 'Orbit Fox Companion', 'veganos' ),
-			'slug'      => 'themeisle-companion',
+			'name'      => esc_html__( 'Otter Blocks', 'veganos' ),
+			'slug'      => 'otter-blocks',
 			'required'  => false,
 		),
 
