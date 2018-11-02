@@ -1,6 +1,5 @@
 = Veganos change log =
 
-
 Version 1.0.5 - November 2, 2018
 - update for Block Gallery styles
 - improved image/gallery block styles
