@@ -1,5 +1,9 @@
 = Veganos change log =
 
+Version 1.0.3, 1.0.4 - October 30, 2018
+- general Gutenberg style touchups and support for Block Gallery
+- new description text
+
 Version 1.0.1, 1.0.2 - October 12, 2018
 - accessibility fixes
 - fixes for escaping
