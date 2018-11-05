@@ -1,8 +1,8 @@
 /*
 Theme Name: Veganos
 Theme URI: https://www.anarieldesign.com/free-food-blogger-wordpress-theme/
-Description: Veganos is a wonderfully designed, clean and responsive free WordPress theme. It's perfect for creating food-related websites like recipe websites, blogs, magazines and more. Veganos is built mobile first and is pleasure to view on devices of all sizes. It features modern, easy-to-read typography and minimalistic design.
-Version: 1.0.5
+Description: Veganos is a wonderfully designed, clean and responsive free WordPress theme built using the new Gutenberg editor. Veganos is perfect for creating food-related websites like recipe websites, blogs, magazines and more. It is built mobile first and is pleasure to view on devices of all sizes. It features modern, easy-to-read typography and minimalistic design.
+Version: 1.0.6
 Author: Anariel Design
 Author URI: https://www.anarieldesign.com
 License: GNU General Public License v2 or later
@@ -319,6 +319,10 @@ th {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+html {
+	overflow-x: hidden;
 }
 
 body {
@@ -3076,10 +3080,12 @@ body .bc-product__title {
 	}
 
 	.main-navigation ul ul {
+		display: block;
 		padding: 0.5em 0;
 		position: absolute;
 		top: 100%;
 		left: -999em;
+		margin-left: -3.875em;
 		z-index: 99999;
 	}
 
